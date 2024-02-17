@@ -1,0 +1,1 @@
+Basic exercice to create an interactive comment function with Django, HTML and basic JavaScript. Comment is then saved to database. (MySQL)
